@@ -1,0 +1,7 @@
+This is my first message
+The first step was I created a folder
+using mkdir
+Then I created a file 
+using cat > fil.xt 
+then inorder to exit this file 
+I dot ctrl + d and then enter

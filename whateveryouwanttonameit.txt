@@ -1,0 +1,8 @@
+THis is my second file
+iI created after creating Sun folder
+using mdkir
+then I created file
+using cat > whateveryouwanttonameit.txt
+then to exit this file
+i do ctrl + d and then enter
+Thank you, see you in the remote
